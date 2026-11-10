@@ -1,0 +1,16 @@
+{
+  "name": "存钱罐",
+  "short_name": "存钱罐",
+  "description": "先存再花的个人记账本，数据只存在自己手机上。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#EDF3F1",
+  "theme_color": "#0E7C70",
+  "lang": "zh-CN",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
